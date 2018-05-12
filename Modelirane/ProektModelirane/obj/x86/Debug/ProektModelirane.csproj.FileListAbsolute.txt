@@ -1,0 +1,83 @@
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.Form1.resources
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.Properties.Resources.resources
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\ProektModelirane\ProektModelirane\bin\Debug\ProektModelirane.exe
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\ProektModelirane\ProektModelirane\bin\Debug\ProektModelirane.pdb
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.exe
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.pdb
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.exe
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.pdb
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane\ProektModelirane\bin\Debug\ProektModelirane.exe
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane\ProektModelirane\bin\Debug\ProektModelirane.pdb
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\UserControl1.baml
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\UserControl1.g.cs
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane_MarkupCompile.cache
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.g.resources
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.Form1.resources
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.Properties.Resources.resources
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.FormRunSpecs.resources
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.FormProperties.resources
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane\ProektModelirane\bin\Debug\ProektModelirane.exe.config
+C:\Documents and Settings\Owner\Desktop\inf mod\ProektModelirane\ProektModelirane\bin\Debug\ProektModelirane.exe.config
+C:\Documents and Settings\Owner\Desktop\inf mod\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.exe
+C:\Documents and Settings\Owner\Desktop\inf mod\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.pdb
+C:\Documents and Settings\Owner\Desktop\inf mod\ProektModelirane\ProektModelirane\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Desktop\inf mod\ProektModelirane\ProektModelirane\obj\x86\Debug\UserControl1.baml
+C:\Documents and Settings\Owner\Desktop\inf mod\ProektModelirane\ProektModelirane\obj\x86\Debug\UserControl1.g.cs
+C:\Documents and Settings\Owner\Desktop\inf mod\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane_MarkupCompile.cache
+C:\Documents and Settings\Owner\Desktop\inf mod\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.g.resources
+C:\Documents and Settings\Owner\Desktop\inf mod\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.Form1.resources
+C:\Documents and Settings\Owner\Desktop\inf mod\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.FormProperties.resources
+C:\Documents and Settings\Owner\Desktop\inf mod\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.FormRunSpecs.resources
+C:\Documents and Settings\Owner\Desktop\inf mod\ProektModelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.Properties.Resources.resources
+C:\Documents and Settings\Owner\Desktop\inf mod\ProektModelirane\ProektModelirane\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Owner\Desktop\inf mod\ProektModelirane\ProektModelirane\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Owner\Desktop\inf mod\ProektModelirane\ProektModelirane\bin\Debug\ProektModelirane.exe
+C:\Documents and Settings\Owner\Desktop\inf mod\ProektModelirane\ProektModelirane\bin\Debug\ProektModelirane.pdb
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-wf\ProektModelirane\bin\Debug\ProektModelirane.exe.config
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-wf\ProektModelirane\obj\x86\Debug\ProektModelirane.exe
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-wf\ProektModelirane\obj\x86\Debug\ProektModelirane.pdb
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-wf\ProektModelirane\bin\Debug\ProektModelirane.exe
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-wf\ProektModelirane\bin\Debug\ProektModelirane.pdb
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-wf\ProektModelirane\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-wf\ProektModelirane\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-wf\ProektModelirane\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-wf\ProektModelirane\obj\x86\Debug\ProektModelirane.Form1.resources
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-wf\ProektModelirane\obj\x86\Debug\ProektModelirane.FormProperties.resources
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-wf\ProektModelirane\obj\x86\Debug\ProektModelirane.FormRunSpecs.resources
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-wf\ProektModelirane\obj\x86\Debug\ProektModelirane.Properties.Resources.resources
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-wf\ProektModelirane\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-wf\ProektModelirane\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-redovno\Modelirane\ProektModelirane\bin\Debug\ProektModelirane.exe.config
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-redovno\Modelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.exe
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-redovno\Modelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.pdb
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-redovno\Modelirane\ProektModelirane\bin\Debug\ProektModelirane.exe
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-redovno\Modelirane\ProektModelirane\bin\Debug\ProektModelirane.pdb
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-redovno\Modelirane\ProektModelirane\bin\Debug\ReversePolishNotation.exe
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-redovno\Modelirane\ProektModelirane\bin\Debug\ReversePolishNotation.pdb
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-redovno\Modelirane\ProektModelirane\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-redovno\Modelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.Form1.resources
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-redovno\Modelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.FormProperties.resources
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-redovno\Modelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.FormRunSpecs.resources
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-redovno\Modelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.Properties.Resources.resources
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-redovno\Modelirane\ProektModelirane\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ProektModelirane-redovno\Modelirane\ProektModelirane\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Proekt Modelirane\ProektModelirane-redovno\Modelirane\ProektModelirane\bin\Debug\ProektModelirane.exe.config
+D:\Proekt Modelirane\ProektModelirane-redovno\Modelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.exe
+D:\Proekt Modelirane\ProektModelirane-redovno\Modelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.pdb
+D:\Proekt Modelirane\ProektModelirane-redovno\Modelirane\ProektModelirane\bin\Debug\ProektModelirane.exe
+D:\Proekt Modelirane\ProektModelirane-redovno\Modelirane\ProektModelirane\bin\Debug\ProektModelirane.pdb
+D:\Proekt Modelirane\ProektModelirane-redovno\Modelirane\ProektModelirane\bin\Debug\ReversePolishNotation.exe
+D:\Proekt Modelirane\ProektModelirane-redovno\Modelirane\ProektModelirane\bin\Debug\ReversePolishNotation.pdb
+D:\Proekt Modelirane\ProektModelirane-redovno\Modelirane\ProektModelirane\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Proekt Modelirane\ProektModelirane-redovno\Modelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.Form1.resources
+D:\Proekt Modelirane\ProektModelirane-redovno\Modelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.FormProperties.resources
+D:\Proekt Modelirane\ProektModelirane-redovno\Modelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.FormRunSpecs.resources
+D:\Proekt Modelirane\ProektModelirane-redovno\Modelirane\ProektModelirane\obj\x86\Debug\ProektModelirane.Properties.Resources.resources
+D:\Proekt Modelirane\ProektModelirane-redovno\Modelirane\ProektModelirane\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Proekt Modelirane\ProektModelirane-redovno\Modelirane\ProektModelirane\obj\x86\Debug\GenerateResource.write.1.tlog

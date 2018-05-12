@@ -1,0 +1,5 @@
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ReversePolishNotation\ReversePolishNotation\bin\Debug\ReversePolishNotation.exe
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ReversePolishNotation\ReversePolishNotation\bin\Debug\ReversePolishNotation.pdb
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ReversePolishNotation\ReversePolishNotation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ReversePolishNotation\ReversePolishNotation\obj\x86\Debug\ReversePolishNotation.exe
+C:\Documents and Settings\Stoyan\Desktop\Informacionno_modelirane_2012\VS Projects\ReversePolishNotation\ReversePolishNotation\obj\x86\Debug\ReversePolishNotation.pdb
